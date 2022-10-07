@@ -1,0 +1,132 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Меню 'Фитнес'",
+      "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Меню 'Постное'",
+      "descr": "Меню 'Постное' - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Меню 'Премиум'",
+      "descr": "В меню 'Премиум' мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!",
+      "price": 21
+    }
+  ],
+  "offer": [
+    {
+      "img": "img/slider/pepper.jpg",
+      "altimg": "pepper"
+    },
+    {
+      "img": "img/slider/food-12.jpg",
+      "altimg": "food"
+    },
+    {
+      "img": "img/slider/olive-oil.jpg",
+      "altimg": "oil"
+    },
+    {
+      "img": "img/slider/paprika.jpg",
+      "altimg": "paprika"
+    },
+    {
+      "img": "img/slider/pepper.jpg",
+      "altimg": "pepper"
+    },
+    {
+      "img": "img/slider/food-12.jpg",
+      "altimg": "food"
+    },
+    {
+      "img": "img/slider/olive-oil.jpg",
+      "altimg": "oil"
+    },
+    {
+      "img": "img/slider/paprika.jpg",
+      "altimg": "paprika"
+    },
+    {
+      "img": "img/slider/pepper.jpg",
+      "altimg": "pepper"
+    },
+    {
+      "img": "img/slider/food-12.jpg",
+      "altimg": "food"
+    },
+    {
+      "img": "img/slider/olive-oil.jpg",
+      "altimg": "oil"
+    },
+    {
+      "img": "img/slider/paprika.jpg",
+      "altimg": "paprika"
+    }
+  ],
+  "requests": [
+    {
+      "name": "tru",
+      "phone": "ru",
+      "id": 1
+    },
+    {
+      "name": "rt",
+      "phone": "wtxd",
+      "id": 2
+    },
+    {
+      "name": "jghhjhg",
+      "phone": "ghjghj",
+      "id": 3
+    },
+    {
+      "name": "tretre",
+      "phone": "ert",
+      "id": 4
+    },
+    {
+      "name": "sdf",
+      "phone": "sdf",
+      "id": 5
+    },
+    {
+      "name": "dfg",
+      "phone": "dfg",
+      "id": 6
+    },
+    {
+      "name": "dfg",
+      "phone": "dfg",
+      "id": 7
+    },
+    {
+      "name": "gdfg",
+      "phone": "dfg",
+      "id": 8
+    },
+    {
+      "name": "et",
+      "phone": "et",
+      "id": 9
+    },
+    {
+      "name": "jgj",
+      "phone": "fgj",
+      "id": 10
+    },
+    {
+      "name": "rte",
+      "phone": "ert",
+      "id": 11
+    }
+  ]
+}
