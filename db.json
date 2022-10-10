@@ -127,6 +127,21 @@
       "name": "rte",
       "phone": "ert",
       "id": 11
+    },
+    {
+      "name": "вап",
+      "phone": "вап",
+      "id": 12
+    },
+    {
+      "name": "ccb",
+      "phone": "vcb",
+      "id": 13
+    },
+    {
+      "name": "cvb",
+      "phone": "cb",
+      "id": 14
     }
   ]
 }
